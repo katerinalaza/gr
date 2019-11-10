@@ -5,8 +5,8 @@ title: Uber
 image_url: uber meg.jpg
 caption: 'Αν και οι υπολογιστές έχουν κατηγορηθεί (όπως παλιότερα η μηχανή εσωτερικής καύσης και η ρομποτική) ότι αφαιρούν δουλειές, την ίδια στιγμή δημιουργούν και ευκαιρίες για νέες αγορές,
 όπως για παράδειγμα στην περίπτωση του Uber. Καθώς, σε αυτό το project μπορούν να συνεργαστούν άνθρωποι που ασχολούνται με την δημιουργία λογισμικών, με τα οικονομικά, με το κομμάτι των πωλήσεων και με ανθρώπους που κατέχουν είτε ένα απλό δίπλωμα οδήγησης είτε ένα επαγγελματικό δίπλωμα. Η Uber παρέχει την δυνατότατα να πραγματοποιηθούν οικονομικές και ασφαλείς μεταφορές.'
-license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
-license_text: Courtesy of Deutsches Museum
+license_url: 'https://creativecommons.org/licenses/by-sa/2.0/'
+license_text: flickr
 categories:
   - definition
 tags:
