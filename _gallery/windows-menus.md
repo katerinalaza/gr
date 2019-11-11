@@ -10,5 +10,6 @@ license_text: flickr
 categories:
   - archetypes
 tags:
+  - menus
   - Windows10
 ---
