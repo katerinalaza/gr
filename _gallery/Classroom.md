@@ -1,4 +1,3 @@
-
 ---
 author: katerinalaza
 title: Classroom
@@ -10,5 +9,4 @@ categories:
   - introduction
 tags:
   - Classroom
-  - ΤΠΕ
 ---
