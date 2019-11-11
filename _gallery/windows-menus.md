@@ -1,7 +1,7 @@
 @@ -0,0 +1,13 @@
 ---
 author: katerinalaza
-title: menus-on-windows
+title: windows-menus
 image_url: Windows10.jpg
 caption:'Το μενού τον Windows 10 είναι μια pop-up εφαρμογή και είναι πολυμορφική.
 Στο Windows menu βρίσκονται menus άλλων εφαρμογών οι οποίες μπορούν να ανοιχθούν από εκεί.'
